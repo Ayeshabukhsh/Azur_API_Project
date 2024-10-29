@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Azure Web API\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|d:\\azure web api\\webapplication1\\webapplication1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|d:\\azure web api\\webapplication1\\webapplication1\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|d:\\azure web api\\webapplication1\\webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|d:\\azure web api\\webapplication1\\webapplication1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|d:\\azure web api\\webapplication1\\webapplication1\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|d:\\azure web api\\webapplication1\\webapplication1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|d:\\azure web api\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|d:\\azure web api\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6904B41-9CEC-4348-8DDE-9D836F3DF361}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAADIAAAAAN8pgfcblvz4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T07:16:07.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T06:32:56.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Student.cs",
+              "ToolTip": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Models\\Student.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:27:39.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T18:21:22.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:49:27.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAFoAAADAnRGN7vMkwGYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:15:04.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAsAAADAp8e0vdccwCEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T05:29:08.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\Azure Web API\\WebApplication1\\WebApplication1\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T05:57:50.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

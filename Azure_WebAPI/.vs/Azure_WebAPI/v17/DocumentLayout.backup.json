@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Azure Web API\\Azure_WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96332C2C-526C-49BF-885A-F8EE54F390E2}|Azure_WebAPI\\Azure_WebAPI.csproj|d:\\azure web api\\azure_webapi\\azure_webapi\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96332C2C-526C-49BF-885A-F8EE54F390E2}|Azure_WebAPI\\Azure_WebAPI.csproj|solutionrelative:azure_webapi\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96332C2C-526C-49BF-885A-F8EE54F390E2}|Azure_WebAPI\\Azure_WebAPI.csproj|d:\\azure web api\\azure_webapi\\azure_webapi\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96332C2C-526C-49BF-885A-F8EE54F390E2}|Azure_WebAPI\\Azure_WebAPI.csproj|solutionrelative:azure_webapi\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96332C2C-526C-49BF-885A-F8EE54F390E2}|Azure_WebAPI\\Azure_WebAPI.csproj|d:\\azure web api\\azure_webapi\\azure_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96332C2C-526C-49BF-885A-F8EE54F390E2}|Azure_WebAPI\\Azure_WebAPI.csproj|solutionrelative:azure_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96332C2C-526C-49BF-885A-F8EE54F390E2}|Azure_WebAPI\\Azure_WebAPI.csproj|d:\\azure web api\\azure_webapi\\azure_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96332C2C-526C-49BF-885A-F8EE54F390E2}|Azure_WebAPI\\Azure_WebAPI.csproj|solutionrelative:azure_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96332C2C-526C-49BF-885A-F8EE54F390E2}|Azure_WebAPI\\Azure_WebAPI.csproj|d:\\azure web api\\azure_webapi\\azure_webapi\\controllers\\departmentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96332C2C-526C-49BF-885A-F8EE54F390E2}|Azure_WebAPI\\Azure_WebAPI.csproj|solutionrelative:azure_webapi\\controllers\\departmentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96332C2C-526C-49BF-885A-F8EE54F390E2}|Azure_WebAPI\\Azure_WebAPI.csproj|d:\\azure web api\\azure_webapi\\azure_webapi\\azure_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96332C2C-526C-49BF-885A-F8EE54F390E2}|Azure_WebAPI\\Azure_WebAPI.csproj|solutionrelative:azure_webapi\\azure_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Azure Web API\\Azure_WebAPI\\Azure_WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Azure_WebAPI\\Program.cs",
+              "ToolTip": "D:\\Azure Web API\\Azure_WebAPI\\Azure_WebAPI\\Program.cs",
+              "RelativeToolTip": "Azure_WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:06:31.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Azure Web API\\Azure_WebAPI\\Azure_WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Azure_WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Azure Web API\\Azure_WebAPI\\Azure_WebAPI\\appsettings.json",
+              "RelativeToolTip": "Azure_WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T15:58:22.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\Azure Web API\\Azure_WebAPI\\Azure_WebAPI\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Azure_WebAPI\\Models\\MyDbContext.cs",
+              "ToolTip": "D:\\Azure Web API\\Azure_WebAPI\\Azure_WebAPI\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Azure_WebAPI\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:19:06.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Azure_WebAPI.csproj",
+              "DocumentMoniker": "D:\\Azure Web API\\Azure_WebAPI\\Azure_WebAPI\\Azure_WebAPI.csproj",
+              "RelativeDocumentMoniker": "Azure_WebAPI\\Azure_WebAPI.csproj",
+              "ToolTip": "D:\\Azure Web API\\Azure_WebAPI\\Azure_WebAPI\\Azure_WebAPI.csproj",
+              "RelativeToolTip": "Azure_WebAPI\\Azure_WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T06:19:38.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "D:\\Azure Web API\\Azure_WebAPI\\Azure_WebAPI\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "Azure_WebAPI\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "D:\\Azure Web API\\Azure_WebAPI\\Azure_WebAPI\\Controllers\\StudentAPIController.cs*",
+              "RelativeToolTip": "Azure_WebAPI\\Controllers\\StudentAPIController.cs*",
+              "ViewState": "AgIAADEAAADgjYn0QOUmwCkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:32:15.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentAPIController.cs",
+              "DocumentMoniker": "D:\\Azure Web API\\Azure_WebAPI\\Azure_WebAPI\\Controllers\\DepartmentAPIController.cs",
+              "RelativeDocumentMoniker": "Azure_WebAPI\\Controllers\\DepartmentAPIController.cs",
+              "ToolTip": "D:\\Azure Web API\\Azure_WebAPI\\Azure_WebAPI\\Controllers\\DepartmentAPIController.cs",
+              "RelativeToolTip": "Azure_WebAPI\\Controllers\\DepartmentAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:42:55.165Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QRc/lpi/D6IDVAssNDGokLcEhKbJgdvULbuzckO7ZcI=",
+  "Source": "Azure_WebAPI",
+  "BasePath": "_content/Azure_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
